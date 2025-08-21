@@ -2,12 +2,19 @@
 Estaremos trabajando sobre una base de datos de la NASA donde aplicaremos un modelo de Regresión Lineal Múltiple para analizar cómo varias variables independientes influyen en una variable dependiente (presión). El objetivo principal de este proyecto es entender mejor la relación entre los datos predecidos y los reales, así como evaluar qué tan bien este modelo puede explicarlos.
 
 Se estarán analizando las variables de:
+
  Frecuencia  
+
  Ángulo
+
  Longitud
- Velocidad   
+
+ Velocidad 
+
  Espesor
+
  Presión
+
 
 A lo largo del documento se muestra el proceso de entrenamiento del modelo, utilizando datos separados en conjuntos de prueba y de entrenamiento para poder evaluar su desempeño.
 
